@@ -9,5 +9,5 @@ export const Routes = {
   textareas: '/textareas',
   tabs: '/tabs',
   dropdowns: '/dropdowns',
-  icons: '/icons',
+  icons: '/icons'
 };
